@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netology_m2m_relations_5',
         'USER': 'postgres',
-        'PASSWORD':'Greon68Taganrog2023',
+        'PASSWORD':'my_password',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
